@@ -1,6 +1,6 @@
 name: xephem
 base: core20
-version: 'i4.0.0' # just for humans, typically '1.2+git' or '1.3.2'
+version: '4.0.0' # just for humans, typically '1.2+git' or '1.3.2'
 summary: XEphem as a snap package
 description: |
   More and more systems don't have the (outdated) libraries that are required to run XEPhem, so here is a snap.
